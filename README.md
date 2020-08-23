@@ -1,1 +1,1 @@
-# discussion-slides
+# Discussion Slides
